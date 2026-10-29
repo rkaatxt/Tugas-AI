@@ -2,8 +2,6 @@
 
 Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
-<!-- Ganti seluruh isian bertanda [ ... ] di bawah. Hapus komentar ini. -->
-
 ## Kelompok
 
 | Peran | Nama | NIM |
