@@ -7,10 +7,9 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 | Peran | Nama | NIM |
 |---|---|---|
 | Ketua | [Ade Raka Maulana] | [124400047] |
-| Anggota | [Andriansyah Amir] | [124400065] |
 
 - **Kelas:** [RA]
-- **Lokasi kelompok:** [5] — [Bandara Linate] (digit terakhir NIM terkecil)
+- **Lokasi kelompok:** [7] — [Universita Bicocca] (digit terakhir NIM terkecil)
 - **Laporan:** [`laporan-latex/main.pdf`]
 
 ## Cara Menjalankan
@@ -22,7 +21,7 @@ uv run jupyter lab
 
 Buka `tugas_ablasi.ipynb`, isi `LOKASI_KELOMPOK`, lalu jalankan semua sel. Semua run tercatat di `hasil/ablasi.csv`.
 
-Perangkat yang kami pakai: [laptop CPU Intel i5], total waktu training: [227.6] menit.
+Perangkat yang kami pakai: [laptop CPU Intel i5], total waktu training: [300] menit.
 
 ## Ringkasan Hasil
 
